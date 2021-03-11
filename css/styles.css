@@ -1,0 +1,41 @@
+.welcome{
+    text-align: center;
+    background-image: url("../assets/h_img.jpg");
+    color: antiquewhite;
+    margin-bottom: 60px;
+}
+
+
+.aboutus {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.services{
+    text-align: center;
+    margin-bottom: 80px;
+    background-image: url("../assets/s_image.jpg");
+    color: antiquewhite;
+}
+
+.whatwedo{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.portfolio{
+    text-align: center;
+    margin-bottom: 60px;
+
+}
+
+.contactus{
+    text-align: center;
+    margin-bottom: 60px;
+    color: white;
+    background-image: url("../assets/c_image.jpg");
+}
+
+footer{
+    text-align: center;
+}
